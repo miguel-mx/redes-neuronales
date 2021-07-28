@@ -1,1 +1,1 @@
-# redes-neuronales
+# Introducción a las Redes Neuronales
